@@ -18,7 +18,7 @@ My goal is to build reliable, efficient, and secure systems that empower users a
 
 [![youtube](https://img.shields.io/badge/youtube-f54242?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/WoodyCH)
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working at [Wirabyte CO., LTD](https://wirabyte.com)
+👩‍💻 I'm currently working at [Wirabyte CO., LTD](https://wirabyte.com) \
 👀 I’m interested in Coding Website & C# Windows Software and now Mobile Application \
 🌱 I’m currently learning Algorithm and Data Structure
 
